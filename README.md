@@ -1,2 +1,2 @@
 # matrix-multiplication-Multithreaded
-Analzying matrix multiplication in single and multithreaded environment
+Analzying simple matrix multiplication `O(n^3)` in single and multithreaded environment
